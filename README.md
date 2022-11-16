@@ -5,7 +5,7 @@
 
 Макет сайта https://www.figma.com/file/EDxaFjOjsQ0lKpae33nN8H/John
 
-Сайт https://endjoyer.github.io/endjoy-john.github.io
+Сайт https://endjoyer.github.io/john-figma/index.html
 
 ---
 
@@ -14,4 +14,4 @@ Created for training purposes.
 
 Site layout https://www.figma.com/file/EDxaFjOjsQ0lKpae33nN8H/John
 
-Website https://endjoyer.github.io/endjoy-john.github.io
+Website https://endjoyer.github.io/john-figma/index.html
