@@ -1,4 +1,4 @@
-# john-figma
+# John Portfolio
 
 Сайт портфолио по шаблону.
 
