@@ -1,6 +1,6 @@
 # John Portfolio
 
-Сайт портфолио по шаблону.
+Сайт портфолио по шаблону. С небольшими доработками.
 
 Один из первых моих сайтов.
 Создан в целях тренировки.
@@ -11,7 +11,7 @@
 
 ---
 
-Portfolio website by template.
+Portfolio website by template. With minor modifications.
 
 One of my first sites.
 Created for training purposes.
