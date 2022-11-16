@@ -1,5 +1,6 @@
 # john-figma
 
+Сайт портфолио по шаблону.
 Один из первых моих сайтов.
 Создан в целях тренеровки.
 
@@ -9,6 +10,7 @@
 
 ---
 
+Portfolio website by template.
 One of my first sites.
 Created for training purposes.
 
